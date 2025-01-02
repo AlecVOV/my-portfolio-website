@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <section id="career-path" class="py-12">
     <h2 class="text-3xl mb-8 text-center bg-blue-500 text-white px-16 py-3 rounded border font-semibold-bold hover:bg-blue-800 mg inline-block">About Me</h2>
     <div class="flex flex-col md:flex-row items-center md:items-start gap-8">
@@ -9,8 +9,7 @@
           I’m an undergraduate pursuing a degree in Computer Science – AI, complemented by specialized coursework in Data Science and Artificial Intelligence. 
           My academic journey gives me a theoretical grounding in cloud computing, machine learning, and software development, while my hands-on projects have challenged me to apply that knowledge in real-world scenarios.
         </p>
-      This section is forbidden, focus on the section above --> 
-        <!-- <h4 class="text-xl font-semibold mb-4">Career Timeline</h4>
+        <h4 class="text-xl font-semibold mb-4">Career Timeline</h4>
         <ul class="space-y-4">
           <li v-for="(event, index) in careerTimeline" :key="index" class="flex">
             <div class="mr-4 flex flex-col items-center">
@@ -43,25 +42,23 @@ export default defineComponent({
   name: 'AboutMe',
   setup() {
     const careerTimeline: CareerEvent[] = [
-      {
-        title: 'Senior Frontend Developer',
-        date: '2021 - Present',
-        description: 'Leading frontend development for a major SaaS platform, focusing on performance optimization and accessibility.'
-      },
-      {
-        title: 'Full Stack Developer',
-        date: '2018 - 2021',
-        description: 'Worked on various projects using Vue.js, Node.js, and AWS, delivering scalable web applications.'
-      },
-      {
-        title: 'Junior Web Developer',
-        date: '2016 - 2018',
-        description: 'Started my career working on responsive websites and e-commerce platforms using HTML, CSS, and JavaScript.'
-      }
+      // {
+      //   title: 'Senior Frontend Developer',
+      //   date: '2021 - Present',
+      //   description: 'Leading frontend development for a major SaaS platform, focusing on performance optimization and accessibility.'
+      // },
+      // {
+      //   title: 'Full Stack Developer',
+      //   date: '2018 - 2021',
+      //   description: 'Worked on various projects using Vue.js, Node.js, and AWS, delivering scalable web applications.'
+      // },
+      // {
+      //   title: 'Junior Web Developer',
+      //   date: '2016 - 2018',
+      //   description: 'Started my career working on responsive websites and e-commerce platforms using HTML, CSS, and JavaScript.'
+      // }
     ]
-
     return { careerTimeline }
   }
 })
 </script>
--->

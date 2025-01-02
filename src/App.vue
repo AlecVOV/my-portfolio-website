@@ -14,7 +14,7 @@
 
       <!-- Career Path Section-->
       <!-- Reuse your existing CareerPath.vue. Make sure it has id="about-me" for anchor linking -->
-      <CareerPath id="career-path"/>
+      <!-- <CareerPath id="career-path"/> -->
 
       <!-- Projects Section -->
       <!-- Reuse your existing Projects.vue. Make sure it has id="projects" for anchor linking -->
@@ -54,6 +54,7 @@ import Skills from './components/Skills.vue'
 import AboutMe from './components/AboutMe.vue'
 import Contact from './components/Contact.vue'
 import Certifications from './components/Certifications.vue'
+import CareerPath from './components/CareerPath.vue'
 // import CareerPath from './components/CareerPath.vue'
 
 
@@ -68,6 +69,7 @@ export default defineComponent({
     AboutMe,
     Contact, 
     Certifications,
+    CareerPath,
   }
 })
 </script>

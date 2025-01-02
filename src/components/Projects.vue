@@ -45,7 +45,7 @@ export default defineComponent({
         description: 'Snake game built with Python and Pygame.',
         image: '/snake_game_logo.webp',
         technologies: ['Python', 'Pygame Library',],
-        demo: 'https://example.com/demo1',
+        demo: 'https://github.com/AlecVOV/Self-Project/blob/main/Snake%20Game%20Project/UML%20Diagram/Image%20Production/Test1.PNG',
         repo: 'https://github.com/AlecVOV/Self-Project/tree/main/Snake%20Game%20Project'
       },
       // Add more projects as needed

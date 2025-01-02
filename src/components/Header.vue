@@ -18,7 +18,7 @@
               </a>
             </li>
             <li>
-              <a href="#skills" class="hover:text-blue-800 transition-colors">
+              <a href="#certifications" class="hover:text-blue-800 transition-colors">
                 Skills
               </a>
             </li>

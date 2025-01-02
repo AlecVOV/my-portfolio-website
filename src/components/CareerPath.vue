@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <section id="career-path" class="py-12">
     <h2 class="text-3xl mb-8 text-center bg-blue-500 text-white px-16 py-3 rounded border font-semibold-bold hover:bg-blue-800 mg inline-block">About Me</h2>
     <div class="flex flex-col md:flex-row items-center md:items-start gap-8">
@@ -26,7 +26,7 @@
       </div>
     </div>
   </section>
-</template> 
+</template>  -->
 
 
 <script lang="ts">
